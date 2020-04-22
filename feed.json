@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ideias Online",
+    "description": "",
+    "home_page_url": "https://lgorgulho.github.io/gh_pages",
+    "feed_url": "https://lgorgulho.github.io/gh_pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ideias Online"
+    },
+    "items": [
+    ]
+}
